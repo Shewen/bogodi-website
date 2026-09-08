@@ -68,6 +68,7 @@ a {
   display: flex;
   flex-direction: column;
   line-height: 1;
+  margin-left: -50px;
 }
 
 .logo strong {
